@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = c:\Users\alunobcc20\Desktop\aula_progamação\csharp-gallo\pokedex-barracred\Pokedex
 build_property._RazorSourceGeneratorDebug = 
 
+[c:/Users/alunobcc20/Desktop/aula_progamação/csharp-gallo/pokedex-barracred/Pokedex/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/alunobcc20/Desktop/aula_progamação/csharp-gallo/pokedex-barracred/Pokedex/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

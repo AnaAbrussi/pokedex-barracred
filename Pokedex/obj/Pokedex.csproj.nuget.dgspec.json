@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alunobcc20\\Desktop\\aula_progamação\\csharp-gallo\\pokedex-barracred\\Pokedex\\Pokedex.csproj": {}
+    "C:\\Users\\alunobcc20\\Desktop\\aula_progamação\\csharp-gallo\\pokedex-barracred\\pokedex\\Pokedex.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alunobcc20\\Desktop\\aula_progamação\\csharp-gallo\\pokedex-barracred\\Pokedex\\Pokedex.csproj": {
+    "C:\\Users\\alunobcc20\\Desktop\\aula_progamação\\csharp-gallo\\pokedex-barracred\\pokedex\\Pokedex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alunobcc20\\Desktop\\aula_progamação\\csharp-gallo\\pokedex-barracred\\Pokedex\\Pokedex.csproj",
+        "projectUniqueName": "C:\\Users\\alunobcc20\\Desktop\\aula_progamação\\csharp-gallo\\pokedex-barracred\\pokedex\\Pokedex.csproj",
         "projectName": "Pokedex",
-        "projectPath": "C:\\Users\\alunobcc20\\Desktop\\aula_progamação\\csharp-gallo\\pokedex-barracred\\Pokedex\\Pokedex.csproj",
+        "projectPath": "C:\\Users\\alunobcc20\\Desktop\\aula_progamação\\csharp-gallo\\pokedex-barracred\\pokedex\\Pokedex.csproj",
         "packagesPath": "C:\\Users\\alunobcc20\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alunobcc20\\Desktop\\aula_progamação\\csharp-gallo\\pokedex-barracred\\Pokedex\\obj\\",
+        "outputPath": "C:\\Users\\alunobcc20\\Desktop\\aula_progamação\\csharp-gallo\\pokedex-barracred\\pokedex\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alunobcc20\\AppData\\Roaming\\NuGet\\NuGet.Config",
